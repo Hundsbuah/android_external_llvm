@@ -7,7 +7,7 @@ LOCAL_CFLAGS :=	\
 	-D__STDC_LIMIT_MACROS	\
 	-D__STDC_CONSTANT_MACROS	\
 	-D__STDC_FORMAT_MACROS	\
-	-O2	\
+	-O3	\
 	-fomit-frame-pointer	\
 	-Wall	\
 	-W	\
